@@ -178,7 +178,7 @@ Dataset: Due to GitHub file size limitations, a sample cleaned dataset is includ
 
 Power BI Dashboard File: The Power BI dashboard file(.pbix) is available here: [Power BI Dashboard - https://drive.google.com/file/d/1gt8vY6dtfTVL5Vt9do_Bvu1dfwlq_JBP/view?usp=sharing]
 
-Note: All SQL queries, Python data cleaning steps, dashboard screenshots and data model are available inside this repository.
+Note: This project demonstrates an end-to-end data analytics workflow from data cleaning to business insights generation.
 
 ## Author
 
