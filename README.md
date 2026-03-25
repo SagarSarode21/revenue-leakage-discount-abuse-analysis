@@ -172,6 +172,14 @@ This project demonstrates the ability to:
 
 ---
 
+## Project Files
+
+Dataset: Due to GitHub file size limitations, a sample cleaned dataset is include in this repository. The complete dataset used for analysis is available here:[Full Dataset - https://drive.google.com/file/d/1eH2C5JnAMv-6wZALpWNkqplkUX4VsUmz/view?usp=sharing]
+
+Power BI Dashboard File: The Power BI dashboard file(.pbix) is available here: [Power BI Dashboard - https://drive.google.com/file/d/1gt8vY6dtfTVL5Vt9do_Bvu1dfwlq_JBP/view?usp=sharing]
+
+Note: All SQL queries, Python data cleaning steps, dashboard screenshots and data model are available inside this repository.
+
 ## Author
 
 **Sagar Sarode
